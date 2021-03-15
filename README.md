@@ -19,6 +19,14 @@
 - 数学の必要性気づく
 ##### 2021年
 - webに興味(ruby,html,css,git,ruby on rails)
+- gitやQiita使ってみる
+
+### 作ったもの
+[読書管理](https://pacific-refuge-33379.herokuapp.com/)
+
+### アカウント
+[Qiita](https://qiita.com/rrrkr)
+
 
 
 <!--
