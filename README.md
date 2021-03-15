@@ -1,4 +1,7 @@
-### Hi there 👋
+### 学習歴
+2018年 授業でc言語を学習
+
+
 
 <!--
 **rrrkr/rrrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
