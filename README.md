@@ -1,6 +1,8 @@
 ### 学習歴
-2016年　授業でc言語を学習 
-2017年　システム会社で半年間インターンシップ(PHP,MySQL,HTML)
+#####2016年
+- 授業でc言語を学習 
+######2017年
+- システム会社で半年間インターンシップ(PHP,MySQL,HTML)
 
 <!--
 **rrrkr/rrrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
